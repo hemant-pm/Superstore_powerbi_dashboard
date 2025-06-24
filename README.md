@@ -42,4 +42,4 @@ This Power BI dashboard presents an interactive sales analysis using the Sample 
 ## 👨‍💻 Author
 **Hemant Mahajan**  
 MSc Data Science 
-📫 [LinkedIn](www.linkedin.com/in/hemant-mahajan-3648642a0) | ✉️ hemantmahajan1611@gmail.com
+| ✉️ hemantmahajan1611@gmail.com
