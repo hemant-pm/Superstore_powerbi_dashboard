@@ -30,7 +30,7 @@ This Power BI dashboard presents an interactive sales analysis using the Sample 
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Dashboard Preview](screenshot/superstore_dashboard.png)
+![Superstore Dashboard Preview](Screenshot/superstore_dashboard.png)
 
 ## 📂 Files
 
